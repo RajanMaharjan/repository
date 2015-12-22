@@ -1,4 +1,8 @@
 1.What happens when you initialize a repository? Why do you need to do it?
 If you want to create you repository you have to run the commant git init which will create the repository in your current directory.
 
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging are the temporatory repository where we can commit one or more files we like to commit. It offer us to make the decision how we commit all the files it may be all at once are the files you like in an order.
+
+
 
