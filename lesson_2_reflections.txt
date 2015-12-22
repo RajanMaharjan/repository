@@ -1,0 +1,4 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+If you want to create you repository you have to run the commant git init which will create the repository in your current directory.
+
+
