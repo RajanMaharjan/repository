@@ -4,5 +4,17 @@ If you want to create you repository you have to run the commant git init which 
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging are the temporatory repository where we can commit one or more files we like to commit. It offer us to make the decision how we commit all the files it may be all at once are the files you like in an order.
 
+3.How can you use the staging area to make sure you have one commit per logical change?
+We can use the staging are to make sure our commit per logical chage as running the diff command comparing various 3 methods.
 
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Yes, ofcourse the branches are the only thing we can use to make our own different test version or edited version without hampering out the original verison.
 
+5.How do the diagrams help you visualize the branch structure?
+We can get through all the parent branch it belongs to and know how the overall projects are going on.
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+After you merg two branches together we can have the overall feature in the two seperate branches.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If there are automatic features are on the git we can save our time doing does manual merges.
