@@ -17,4 +17,4 @@ Simply time "git log" and "git diff id_1 id_2"
 As we are able to checkout the previous version any time we want, we can be confident enough making changes as needed.
 
 7.Now that you have your workspace set up, what do you want to try using Git for?
-I want to work with my won projects so that I can know the proper use of it in real projects.
+I want to work with my won projects so that I can know the proper use of it in real projects..
