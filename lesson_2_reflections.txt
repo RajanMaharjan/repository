@@ -18,3 +18,5 @@ After you merg two branches together we can have the overall feature in the two 
 
 7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 If there are automatic features are on the git we can save our time doing does manual merges.
+
+continue.. to lesson 3
