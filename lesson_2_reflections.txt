@@ -20,3 +20,5 @@ After you merg two branches together we can have the overall feature in the two 
 If there are automatic features are on the git we can save our time doing does manual merges.
 
 continue.. to lesson 3
+
+
